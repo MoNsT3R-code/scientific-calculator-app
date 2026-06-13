@@ -20,8 +20,6 @@ MathHub Pro combines three essential academic utilities into an integrated, flui
 
 ## 📦 System Architecture
 
-<div align="center">
-
 ```text
 ┌──────────────────────────────────────────────────────────────┐
 │                      USER INTERACTION LAYER                  │
