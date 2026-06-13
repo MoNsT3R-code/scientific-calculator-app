@@ -42,7 +42,7 @@ MathHub Pro combines three essential academic utilities into an integrated, flui
 │                     DYNAMIC RENDERING AGENT                  │
 ├───────────────────────────────────────────────────────────── ┤
 │         Responsive Display Layout & Canvas Render Grid       │
-└──────────────────────────────────────────────────────────────...
+└──────────────────────────────────────────────────────────────┘
 
 ```
 
