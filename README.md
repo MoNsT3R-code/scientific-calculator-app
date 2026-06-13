@@ -18,6 +18,16 @@ MathHub Pro combines three essential academic utilities into an integrated, flui
 
 ---
 
+## 📍 Quick Navigation
+
+* [🌐 Project Overview](#-project-overview)
+* [💻 Languages & Technologies Used](#-languages--technologies-used)
+* [📁 Repository Structure and Module Index](#-repository-structure-and-module-index)
+* [🎨 Layout Styling (`calculator.css`)](#-layout-styling-calculatorcss)
+* [🧱 Document Structure (`calculator.html`)](#-document-structure-calculatorhtml)
+* [⚙️ Application Logic (`calculator.js`)](#%EF%B8%8F-application-logic-calculatorjs)
+
+---
 ## 📦 System Architecture
 
 ```text
