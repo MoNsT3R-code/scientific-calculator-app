@@ -1,0 +1,13 @@
+📁 scientific-calculator-app/
+│
+├── 📄 app.py               (The code provided above)
+├── 📄 notes.json           (Auto-created by Python to store your notes)
+│
+├── 📁 templates/
+│   └── 📄 index.html       (Move your main HTML file inside this folder)
+│
+└── 📁 static/
+    ├── 📁 css/
+    │   └── 📄 calculator.css
+    └── 📁 js/
+        └── 📄 calculator.js
